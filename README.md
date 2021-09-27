@@ -1,10 +1,23 @@
-# Flask-Cnn-Recognition-App
-Flask Drawing Recognition Application based on CNN model
+# Quick Draw Doodler
 
-This project is related with this article in towardDataScience : 
-https://towardsdatascience.com/develop-an-interactive-drawing-recognition-app-based-on-cnn-deploy-it-with-flask-95a805de10c0
+This is an implementation of **Google Quick Draw** Dataset for drawing and checking doodles.
 
-It aims to deploy a Deep Learning Model using Flask.
+## Screenshot
 
-Hugo Mallet
+![Quick Draw](https://i.ibb.co/k4vjyQ4/quickdraw.png)
+## Tech Stack
 
+1. **Backend**: Python
+2. **Frontend**: HTML, CSS, JS
+
+## Frameworks and Libraries
+
+1. Flask
+2. Tensorflow
+3. Pillow
+4. Numpy
+5. Bootstrap
+
+## Dataset
+
+[QuickDraw](https://quickdraw.withgoogle.com/data)
